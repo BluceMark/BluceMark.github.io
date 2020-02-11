@@ -1,2 +1,0 @@
-# BluceMark.github.io
-BluceMark
